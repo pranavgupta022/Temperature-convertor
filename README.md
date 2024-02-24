@@ -1,7 +1,7 @@
 
 # TEMPERATUTRE CONVERTOR
 
-A simple temperature convertor website.
+A simple temperature convertor website that converts temperature from/to degree celcius,kelvin and fahrenheit.
 
 
 ## Tech Stack
