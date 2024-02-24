@@ -6,7 +6,7 @@ A simple temperature convertor website that converts temperature from/to degree 
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JAVASCRIPT
+ HTML, CSS, JAVASCRIPT
 
 
 
